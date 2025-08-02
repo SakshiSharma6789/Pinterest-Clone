@@ -1,0 +1,19 @@
+.app{
+    width: 100%;
+   
+    display: flex;
+  
+    gap: 16px;
+    margin:3px;
+  
+    
+}
+.content{
+   
+    flex: 1;
+    margin-right: 16px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
