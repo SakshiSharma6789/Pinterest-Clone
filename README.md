@@ -24,9 +24,12 @@ A full-stack Pinterest-style image sharing web application built using the MERN 
 
 ---
 ## 📁 Project Structure
+
 pinterest-clone/
 ├── backend/ # Node.js + Express API
+
 ├── frontend/ # React.js client
+
 └── README.md # Project details
 
 
