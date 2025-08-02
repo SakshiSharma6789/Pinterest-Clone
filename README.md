@@ -65,7 +65,8 @@ npm start
 
 ##  Screenshots
 ### Home page
-![Home page](./Pinterset clone screenshots/home-page.png)
+![Home page](./screenshots/home-page.png)
+
 
 ---
 
