@@ -63,12 +63,44 @@ npm start
 
 ---
 
+```
 ##  Screenshots
 ### Home page
-![Home](./screenshots/home-page.png)
 
+![Home](screenshots/home-page.png)
+
+### Login page
+![Login](screenshots/Login-page.png)
+
+### Post page 
+![Post](screenshots/Post-page.png)
+
+### Profile page
+![Profile](screenshots/Profile created page.png)
+![Profile saved](screenshots/Profile page saved.png)
+
+###Post create page
+![Create](screenshots/Create page1.png)
+![Create](screenshots/Create page 2.png)
+
+###Serach page
+![Search](screenshots/search page.png)
 
 ---
+
+📝 License
+This project is licensed under the MIT License.
+
+👩‍💻 Author
+Sakshi Sharma
+💼 GitHub
+📧 Email: your-email@example.com (optional)
+🌐 Portfolio: coming soon!
+
+🌟 Show Your Support
+If you like this project, consider giving it a ⭐ on GitHub — it helps a lot!
+
+
 
 
 
