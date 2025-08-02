@@ -63,6 +63,8 @@ npm install
 npm start
 
 ---
-## 📸 Screenshots
-Home page 
+## 📷 Screenshots
+Home page
 
+
+---
