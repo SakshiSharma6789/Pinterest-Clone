@@ -61,31 +61,13 @@ cd frontend
 npm install
 npm start
 
+---
 
-
-
-📸 Screenshots
-🏠 Home Page
-![Home](Pinterset clone screenshots/home-page.png)
-
-
+##  Screenshots
+### Home page
+![Home page](./Pinterset clone screenshots/home-page.png)
 
 ---
 
-### 💡 Note:
-- Make sure you use triple backticks (```) for code blocks
-- Always leave an **empty line before headings**
 
----
 
-Once you fix that and push again, the heading will look **bold, separated, and neat** like this:
-
-> ## 📸 Screenshots  
-> ### 🏠 Home Page  
-> _Add your image here later_
-
----
-
-Need help updating and committing this change? I can guide you step by step!
-
----
