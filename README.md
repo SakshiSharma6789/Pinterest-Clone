@@ -62,7 +62,7 @@ cd frontend
 npm install
 npm start
 
-
+---
 ## 📸 Screenshots
 Home page 
 
