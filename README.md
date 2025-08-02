@@ -60,9 +60,13 @@ npm start
 cd frontend
 npm install
 npm start
+
+
+
+
 📸 Screenshots
 🏠 Home Page
-Add your image here later
+![Home](Pinterset clone screenshots/home-page.png)
 
 
 
