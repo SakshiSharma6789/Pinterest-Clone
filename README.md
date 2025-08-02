@@ -65,7 +65,7 @@ npm start
 
 ##  Screenshots
 ### Home page
-![Home page](./screenshots/home-page.png)
+![Home](./screenshots/home-page.png)
 
 
 ---
