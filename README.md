@@ -76,25 +76,28 @@ npm start
 ![Post](screenshots/Post-page.png)
 
 ### Profile page
-![Profile](screenshots/Profile created page.png)
-![Profile saved](screenshots/Profile page saved.png)
+![Profile](screenshots/Profile-created-page.png)
+![Profile saved](screenshots/Profile-page-saved.png)
 
 ###Post create page
-![Create](screenshots/Create page1.png)
-![Create](screenshots/Create page 2.png)
+![Create](screenshots/Create-page1.png)
+![Create](screenshots/Create-page 2.png)
 
 ###Serach page
-![Search](screenshots/search page.png)
+![Search](screenshots/search-page.png)
 
 ---
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
 
-👩‍💻 Author
-Sakshi Sharma
+## 👩‍💻 Author
+### Sakshi Sharma
+
 💼 GitHub
-📧 Email: your-email@example.com (optional)
+
+📧 Email: sakshishkp@gmail.com
+
 🌐 Portfolio: coming soon!
 
 🌟 Show Your Support
